@@ -1,0 +1,16 @@
+ls - this is stands for getting the file data we can also use it by "ls -a, ls -l, ls -la" these all give the a lot of data
+cd - to move between the folder and files. cd .. used for previuse folder and cd - used for starting folder.
+clear - this is used for to clear the written or typed commands on the folder
+mkdir - to create a folder. i.g mkdir Honey_singh_muanriya
+pwd - It's used for printing the currnt folder, print working directory.
+mv - it used to move the folder and it takes two argument firt is file name and secind is file destination where the file will be moved
+we can also use mv to rename the file and it takes two argument.
+cp - to copy any file it takes two argument first currntfile name and second new file name.
+touch - to create a new file.
+rm - to remove the file and directory write file name and use -r to remove the directory.
+ln -s - is used for linking the file.
+echo - print any text that follows the commands
+man - It's used for the documentation. it tells about the other commands like ls, echo, touch, mkdir, pwd.
+uname - to get the info about the OS.
+whoami - it tells you the current username.
+tar -xvf - to compresed a zip folder use.
