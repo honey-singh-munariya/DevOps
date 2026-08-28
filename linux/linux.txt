@@ -1,3 +1,4 @@
+chmod - to change the permission and change the permission.
 ls - this is stands for getting the file data we can also use it by "ls -a, ls -l, ls -la" these all give the a lot of data
 cd - to move between the folder and files. cd .. used for previuse folder and cd - used for starting folder.
 clear - this is used for to clear the written or typed commands on the folder
@@ -12,5 +13,13 @@ ln -s - is used for linking the file.
 echo - print any text that follows the commands
 man - It's used for the documentation. it tells about the other commands like ls, echo, touch, mkdir, pwd.
 uname - to get the info about the OS.
+cat - it's used for to print any file data.
 whoami - it tells you the current username.
 tar -xvf - to compresed a zip folder use.
+head - gives us the specific line of the file.
+service --status-all - it will tell you how many services you are getting in linux.
+ps - it will tell you how many process is running in the current time.
+df - it will give the storage's details.
+printenv - it will tell you all the env in your system.
+ifconfig - tells you the ip address and internet providers
+sudo apt - to download any package.
