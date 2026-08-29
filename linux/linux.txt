@@ -23,3 +23,9 @@ df - it will give the storage's details.
 printenv - it will tell you all the env in your system.
 ifconfig - tells you the ip address and internet providers
 sudo apt - to download any package.
+top - used to get the info about the CPU GPU process memory in the background.
+whatis - used to get the info about any command.
+neofetch - tells you about your gpu ssd or OS's name.
+htop - gives you the info about resourses CPU time command.
+
+

@@ -1,0 +1,1 @@
+print("Honey singh munariya is going to be a rich man in his life..")
