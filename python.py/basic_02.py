@@ -12,6 +12,7 @@
 # >= - Greater than or equal to
 # <= - Less than or equal 
 
+
 age= int(input("Enter your age\n "))
 
 if age >= 18:
@@ -45,3 +46,11 @@ print(rest.banana)
 print(rest.apple)
 print(rest.orange)
 print(rest.graps)
+
+# while loops:
+
+i = 0
+
+while i < 10:
+    print("Honey singh is a great devOps engineer.")
+    i += 1

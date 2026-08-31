@@ -47,5 +47,5 @@ print(c)
 d.keys() # it will return the keys of the dictionary.
 d.values() # it will return the values of the dictionary.
 d.pop(2) # it will remove the key value pair from the dictionary.
-d["Honey Singh"] = "Munariya" # it will add the key value pair in the dictionary.   
+d["Honey Singh"] = "Munariya " # it will add the key value pair in the dictionary.   
 print(d)
