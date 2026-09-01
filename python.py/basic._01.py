@@ -26,6 +26,7 @@ print(a)
 print(a+A)
 
 
+
 print(max(b))
 
 # tuple is a immutable data type. It means we can not change the value of the tuple once it is created.
