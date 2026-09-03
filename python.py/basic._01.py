@@ -14,7 +14,6 @@ print(c)
 d = {1:"One", 2:"Two", 3:"Three", 4:"Four"} #This is a dictionary created by using curly brackets. It will allow key values pair.
 print(d)
 
-
 # let's do the basic opreation on list, tuple, set, dictionary.
 
 print(max(a))
@@ -24,9 +23,6 @@ a.insert(4,1000)
 print(a)
 
 print(a+A)
-
-
-
 print(max(b))
 
 # tuple is a immutable data type. It means we can not change the value of the tuple once it is created.
