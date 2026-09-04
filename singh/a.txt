@@ -10,3 +10,5 @@ second we have to the merging.
 third we have to pull the request 
 fourth we have to deleting the branch and then creating the new one this is what all we can do in the day.
 
+now i have created a repo called udit.
+now we are going to push some code on it
