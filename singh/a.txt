@@ -2,3 +2,11 @@ Hey  my name is Honey and I am a future rich man on top one.
 
 this is just for the branch merging and we can it learning git branching.
 
+this is what i am going to do  in a brothers cafe.
+the first thing we have to do is that to learn github and the gitlab.
+
+first in this we do the switch branching.
+second we have to the merging.
+third we have to pull the request 
+fourth we have to deleting the branch and then creating the new one this is what all we can do in the day.
+
